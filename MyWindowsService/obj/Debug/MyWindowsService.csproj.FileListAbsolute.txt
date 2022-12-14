@@ -1,0 +1,13 @@
+E:\Programming\C#\ServiceSelfUpdater\MyWindowsService\bin\Debug\MyWindowsService.exe.config
+E:\Programming\C#\ServiceSelfUpdater\MyWindowsService\bin\Debug\MyWindowsService.exe
+E:\Programming\C#\ServiceSelfUpdater\MyWindowsService\bin\Debug\MyWindowsService.pdb
+E:\Programming\C#\ServiceSelfUpdater\MyWindowsService\bin\Debug\ServiceProcess.dll
+E:\Programming\C#\ServiceSelfUpdater\MyWindowsService\bin\Debug\ServiceProcess.pdb
+E:\Programming\C#\ServiceSelfUpdater\MyWindowsService\obj\Debug\MyWindowsService.csproj.AssemblyReference.cache
+E:\Programming\C#\ServiceSelfUpdater\MyWindowsService\obj\Debug\MyWindowsService.csproj.SuggestedBindingRedirects.cache
+E:\Programming\C#\ServiceSelfUpdater\MyWindowsService\obj\Debug\MyWindowsService.ProjectInstaller.resources
+E:\Programming\C#\ServiceSelfUpdater\MyWindowsService\obj\Debug\MyWindowsService.csproj.GenerateResource.cache
+E:\Programming\C#\ServiceSelfUpdater\MyWindowsService\obj\Debug\MyWindowsService.csproj.CoreCompileInputs.cache
+E:\Programming\C#\ServiceSelfUpdater\MyWindowsService\obj\Debug\MyWindowsService.csproj.CopyComplete
+E:\Programming\C#\ServiceSelfUpdater\MyWindowsService\obj\Debug\MyWindowsService.exe
+E:\Programming\C#\ServiceSelfUpdater\MyWindowsService\obj\Debug\MyWindowsService.pdb

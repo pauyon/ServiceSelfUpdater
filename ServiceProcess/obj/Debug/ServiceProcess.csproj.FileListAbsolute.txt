@@ -1,0 +1,6 @@
+E:\Programming\C#\ServiceSelfUpdater\ServiceProcess\bin\Debug\ServiceProcess.dll
+E:\Programming\C#\ServiceSelfUpdater\ServiceProcess\bin\Debug\ServiceProcess.pdb
+E:\Programming\C#\ServiceSelfUpdater\ServiceProcess\obj\Debug\ServiceProcess.csproj.AssemblyReference.cache
+E:\Programming\C#\ServiceSelfUpdater\ServiceProcess\obj\Debug\ServiceProcess.csproj.CoreCompileInputs.cache
+E:\Programming\C#\ServiceSelfUpdater\ServiceProcess\obj\Debug\ServiceProcess.dll
+E:\Programming\C#\ServiceSelfUpdater\ServiceProcess\obj\Debug\ServiceProcess.pdb

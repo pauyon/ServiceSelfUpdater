@@ -1,0 +1,6 @@
+
+# Install service
+c:\windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe MyWindowsService.exe
+
+#Uninstall Service
+c:\windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe /u MyWindowsService.exe

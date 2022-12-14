@@ -1,0 +1,12 @@
+E:\Programming\C#\ServiceSelfUpdater\ServiceUpdater\bin\Debug\ServiceUpdater.exe.config
+E:\Programming\C#\ServiceSelfUpdater\ServiceUpdater\bin\Debug\ServiceUpdater.exe
+E:\Programming\C#\ServiceSelfUpdater\ServiceUpdater\bin\Debug\ServiceUpdater.pdb
+E:\Programming\C#\ServiceSelfUpdater\ServiceUpdater\bin\Debug\DotNetZip.dll
+E:\Programming\C#\ServiceSelfUpdater\ServiceUpdater\bin\Debug\DotNetZip.pdb
+E:\Programming\C#\ServiceSelfUpdater\ServiceUpdater\bin\Debug\DotNetZip.xml
+E:\Programming\C#\ServiceSelfUpdater\ServiceUpdater\obj\Debug\ServiceUpdater.csproj.AssemblyReference.cache
+E:\Programming\C#\ServiceSelfUpdater\ServiceUpdater\obj\Debug\ServiceUpdater.csproj.SuggestedBindingRedirects.cache
+E:\Programming\C#\ServiceSelfUpdater\ServiceUpdater\obj\Debug\ServiceUpdater.csproj.CoreCompileInputs.cache
+E:\Programming\C#\ServiceSelfUpdater\ServiceUpdater\obj\Debug\ServiceUpdater.csproj.CopyComplete
+E:\Programming\C#\ServiceSelfUpdater\ServiceUpdater\obj\Debug\ServiceUpdater.exe
+E:\Programming\C#\ServiceSelfUpdater\ServiceUpdater\obj\Debug\ServiceUpdater.pdb

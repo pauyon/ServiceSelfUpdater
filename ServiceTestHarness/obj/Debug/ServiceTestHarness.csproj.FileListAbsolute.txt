@@ -1,0 +1,11 @@
+E:\Programming\C#\ServiceSelfUpdater\ServiceTestHarness\bin\Debug\ServiceTestHarness.exe.config
+E:\Programming\C#\ServiceSelfUpdater\ServiceTestHarness\bin\Debug\ServiceTestHarness.exe
+E:\Programming\C#\ServiceSelfUpdater\ServiceTestHarness\bin\Debug\ServiceTestHarness.pdb
+E:\Programming\C#\ServiceSelfUpdater\ServiceTestHarness\bin\Debug\ServiceProcess.dll
+E:\Programming\C#\ServiceSelfUpdater\ServiceTestHarness\bin\Debug\ServiceProcess.pdb
+E:\Programming\C#\ServiceSelfUpdater\ServiceTestHarness\obj\Debug\ServiceTestHarness.csproj.AssemblyReference.cache
+E:\Programming\C#\ServiceSelfUpdater\ServiceTestHarness\obj\Debug\ServiceTestHarness.csproj.SuggestedBindingRedirects.cache
+E:\Programming\C#\ServiceSelfUpdater\ServiceTestHarness\obj\Debug\ServiceTestHarness.csproj.CoreCompileInputs.cache
+E:\Programming\C#\ServiceSelfUpdater\ServiceTestHarness\obj\Debug\ServiceTestHarness.csproj.CopyComplete
+E:\Programming\C#\ServiceSelfUpdater\ServiceTestHarness\obj\Debug\ServiceTestHarness.exe
+E:\Programming\C#\ServiceSelfUpdater\ServiceTestHarness\obj\Debug\ServiceTestHarness.pdb
